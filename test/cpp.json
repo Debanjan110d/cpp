@@ -1,0 +1,16 @@
+{
+	"Minimal C++ Start Template": {
+		"prefix": "cpp",
+		"body": [
+			"#include <iostream>",
+			"",
+			"using namespace std;",
+			"",
+			"int main(){",
+			"    cout << $1;",
+			"    return 0;",
+			"}"
+		],
+		"description": "Minimal C++ program starting point"
+	}
+}
